@@ -35,7 +35,7 @@ Django
 1. Sử dụng phần cứng là arduino để vận hành hệ thống có kết hợp rfid để quyệt thẻ khi ra vào có kết hợp 
 
 ## Thành viên dự án:
-Nguyễn Đức Dũng
-Nguyễn Viết Hoài Bão
+Nguyễn Đức Dũng || 
+Nguyễn Viết Hoài Bão || 
 Nguyễn Phạm Nhật Vỹ
 
