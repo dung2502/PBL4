@@ -36,4 +36,6 @@ Django
 
 ## Thành viên dự án:
 Nguyễn Đức Dũng
+Nguyễn Viết Hoài Bão
+Nguyễn Phạm Nhật Vỹ
 
